@@ -1,6 +1,5 @@
 # INFO_5100_Final_Project
 Image Recognition Application
-Image Transformation Application:
  
 This application has been created by INFO 5100 Application Engineering class students using JavaFX and im4java. It can be used to perform some operations on an image. Below are a few guidelines to use this application.
 
